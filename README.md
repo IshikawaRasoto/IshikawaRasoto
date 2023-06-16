@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1> Rafael Eijy Ishikawa Rasoto </h1>
+
+<img src="https://media.licdn.com/dms/image/D4D03AQEdxeGRPdBbMA/profile-displayphoto-shrink_800_800/0/1686881061391?e=1692230400&v=beta&t=73-xJdhuwAm_984GoM18TTICQ0IAp6zb689Lh3QgPOA" width = 500px/>
+
+Olá! 
 
 <!--
 **IshikawaRasoto/IshikawaRasoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
