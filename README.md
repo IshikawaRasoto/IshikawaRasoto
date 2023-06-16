@@ -1,20 +1,43 @@
 <h1> Rafael Eijy Ishikawa Rasoto </h1>
 
-<img src="https://media.licdn.com/dms/image/D4D03AQEdxeGRPdBbMA/profile-displayphoto-shrink_800_800/0/1686881061391?e=1692230400&v=beta&t=73-xJdhuwAm_984GoM18TTICQ0IAp6zb689Lh3QgPOA" width = 500px/>
+Olá! Seja bem-vindo ao meu GitHub!  
 
-Olá! 
+<h2> Quem sou eu? </h2>
 
-<!--
-**IshikawaRasoto/IshikawaRasoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Engenharia de Computação - <a href="http://www.utfpr.edu.br">UTFPR</a>
+- Técnico em Eletrônica - <a href="http://www.utfpr.edu.br">UTFPR</a>
+- Novo integrante da equipe <a href="https://www.imbaja.com">Imperador</a> - Baja SAE
 
-Here are some ideas to get you started:
+Além disso, já fui estagiário na <a href="https://fluipress.com.br">Fluipress Automação LTDA.</a>, monitor de Programação, Cálculo I e também Estruturas de Dados 2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Programação </h2>
+
+Linguages as quais domino atualmente:
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+
+Linguagens que tenho afinidade:
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
+IDE's utilizadas:
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshikawaRasoto&layout=compact&theme=dark">
+
+No momento, meus sistemas operacionais são:
+
+<img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"> 
+<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+
+<h2>Contato</h2>
+
+<a href="https://www.linkedin.com/in/rafaelrasoto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ishikawarasoto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/rafaelrasoto/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://discord.com/users/262036076539936768"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
