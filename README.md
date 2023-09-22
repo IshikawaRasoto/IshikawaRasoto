@@ -6,31 +6,32 @@ Olá! Seja bem-vindo ao meu GitHub!
 
 - Estudante de Engenharia de Computação - <a href="http://www.utfpr.edu.br">UTFPR</a>
 - Técnico em Eletrônica - <a href="http://www.utfpr.edu.br">UTFPR</a>
-- Novo integrante da equipe <a href="https://www.imbaja.com">Imperador</a> - Baja SAE
+- Integrante da equipe <a href="https://www.imbaja.com">Imperador</a> - Baja SAE no subsistema de eletrônica
 
 Além disso, já fui estagiário na <a href="https://fluipress.com.br">Fluipress Automação LTDA.</a>, monitor de Programação, Cálculo I e também Estruturas de Dados 2.
 
 <h2> Programação </h2>
 
-Linguages as quais domino atualmente:
+### Linguagens de Programação
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-
-Linguagens que tenho afinidade:
-
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+### Low Level
+
+* **Assembly - ATMEGA328P**
+
+### Linguagens de Descrição que já Trabalhei:
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
-IDE's utilizadas:
+* **VHDL**
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshikawaRasoto&layout=compact&theme=dark">
-
-No momento, meus sistemas operacionais são:
+### OS Utilizados
 
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"> 
 <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
